@@ -19,7 +19,7 @@ Currently, I am expanding my knowledge in the field of 𝗦𝗼𝗳𝘁𝘄𝗮�
 
 ## 📌 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMPP&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMPP&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMPP&layout=compact)
 
 ## 📫 Connect with Me
 <div> 
