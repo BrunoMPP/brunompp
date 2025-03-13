@@ -19,13 +19,14 @@ Currently, I am expanding my knowledge in the field of 𝗦𝗼𝗳𝘁𝘄𝗮�
 
 ## 📌 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMPP&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMPP&hide_progress=true)
 
 ## 📫 Connect with Me
 <div> 
   <a href="https://instagram.com/brunomagalhaespp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunomagalhaespp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunomagalhaespp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/brunomagalhaespp/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
 </div>
 
 ---
