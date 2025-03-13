@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hello! I’m Bruno
 
-<!--
-**BrunoMPP/brunompp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Developer | .NET and Software Quality Specialist
 
-Here are some ideas to get you started:
+A Computer Engineering graduate with over 𝟲 𝘆𝗲𝗮𝗿𝘀 of experience in software development, working with .𝗡𝗘𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗮𝗻𝗱 .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲, 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁. I have expertise in designing and optimizing 𝗺𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 and managing 𝗔𝗣𝗜𝘀, ensuring scalable and efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am expanding my knowledge in the field of 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆, focusing on the development of 𝗺𝗮𝗻𝘂𝗮𝗹 𝗮𝗻𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝘁𝗲𝘀𝘁𝗶𝗻𝗴, using tools such as 𝗖𝘆𝗽𝗿𝗲𝘀𝘀, 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺, 𝗮𝗻𝗱 𝗣𝗹𝗮𝘆𝘄𝗿𝗶𝗴𝗵𝘁 to ensure greater efficiency and reliability in software delivery.
+
+
+## 🛠️ Tech Stack
+- **Languages:** C# | SQL | Javascript | Python
+- **Frameworks & Libraries:** .NET Core, ASP.NET Core, .NET Framework, Angular, Cypress, Playwright
+- **Cloud & DevOps:** Microsoft Azure, Docker
+- **Databases:** SQL Server, MongoDB
+
+## 💼 Experience
+
+
+## 📌 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMPP&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- LinkedIn: [brunomagalhaespp](https://www.linkedin.com/in/brunomagalhaespp/)
+- Email: brunomagalhaespp@hotmail.com
+
+---
+🚀 Let's build something amazing together!
+
